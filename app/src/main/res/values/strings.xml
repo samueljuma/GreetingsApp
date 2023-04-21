@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreetingsApp</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="back">Go Back</string>
+    <string name="greeting">Hello there, %1$s!</string>
+
+</resources>
